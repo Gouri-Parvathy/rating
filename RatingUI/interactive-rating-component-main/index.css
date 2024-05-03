@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Overpass:ital,wght@0,100..900;1,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+.whole-container{
+    background-image: linear-gradient(hsl(213, 19%, 18%),hsl(216, 12%, 8%));
+    height: 400px;
+    width: 400px;
+    display: flex;
+    justify-content: center;
+    border-radius: 15px;
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 150px;
+    background-color:rgb(32, 31, 31);
+}
+.heading{
+    font-weight: 700;
+    color: white;
+    font-size: 25px;
+    font-family: "Overpass";
+}
+.desc{
+    color: white;
+    font-size: 15px;
+    font-family: "Overpass";
+    margin-top: 0px;
+}
+#one{
+    height: 40px;
+    width: 40px;
+    border-radius: 100%;
+    border-width: 0px;
+    color: white;
+    background-color:hsl(210, 2%, 16%) ;
+    margin-right: 13px;
+}
+#two{
+    height: 40px;
+    width: 40px;
+    border-radius: 100%;
+    border-width: 0px;
+    color: white;
+    background-color:hsl(210, 2%, 16%) ;
+    margin-right: 13px;
+}
+#three{
+    height: 40px;
+    width: 40px;
+    border-radius: 100%;
+    border-width: 0px;
+    color: white;
+    background-color:hsl(210, 2%, 16%) ;
+    margin-right: 13px;
+}
+#four{
+    height: 40px;
+    width: 40px;
+    border-radius: 100%;
+    border-width: 0px;
+    color: white;
+    background-color:hsl(210, 2%, 16%) ;
+    margin-right: 13px;
+}
+#five{
+    height: 40px;
+    width: 40px;
+    border-radius: 100%;
+    border-width: 0px;
+    color: white;
+    background-color:hsl(210, 2%, 16%) ;
+}
+#orange{
+  background-color: hsl(25, 97%, 53%);
+  height: 40px;
+  width: 300px;
+  color: white;
+  margin-top: 30px;
+  border-radius: 20px;
+}
+.star{
+    margin-top: 30px;
+}
+.rating{
+    margin-top: 20px;
+}
+.image{
+    margin-top: 20px;
+    margin-left: 70px;
+}
+.space{
+    padding-left: 80px;
+}
+#selected{
+    color:hsl(25, 97%, 53%);
+    padding-top: 5px;
+    height: 30px;
+    width: 180px;
+    margin-left: 50px;
+    text-align: center;
+    border-radius: 14px;
+    background-color: hsl(210, 2%, 16%);
+}
